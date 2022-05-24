@@ -212,7 +212,7 @@ color: #212121;
 .filtr-button:hover{
     background-color: var(--accent-color);
     border-color: var(--accent-color);
-    color: var(--accent-color);
+    color: var(--white-text-color);
     cursor: pointer;
 }
 .button{
